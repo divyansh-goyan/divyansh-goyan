@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Courses,**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/divyanshagrawal](https://bento.me/divyanshagrawal)
+- 👨‍💻 All of my projects are available at [[https://beacons.page/divyanshgoyan]([https://beacons.page/divyanshgoyan])]
 
-- 📫 How to reach me **divyansh.goyan@gmail.com**
+- 📫 How to reach me **divyansh.goyan+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
